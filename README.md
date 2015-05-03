@@ -5,7 +5,7 @@ Feel free to use it on your website.
 
 The animation is continuous, you can change the opacity in fog.css.
 
-If you want add it in your html, just paste the fog html string into your previous background string, and add the /* FOG ANIMATION */ strings in your css file. 
+If you want to add it in your html, just paste the fog html string into your previous background string, add the /* FOG ANIMATION */ strings in your css file and copy the fog#.png files to the root directory.
 
 If you are having troubles with scroll bar, add "overflow-x: hidden;" in body properties (css)
 
